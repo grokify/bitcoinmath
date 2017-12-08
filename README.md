@@ -4,9 +4,11 @@
 [![Docs][docs-godoc-svg]][docs-godoc-link]
 [![License][license-svg]][license-link]
 
-Bitcoin math library from, the Bitcoin split vanity generator by ThePiachu.
+Bitcoin math library from, the Bitcoin split vanity generator by ThePiachu:
 
-This package was created so the libraries could be run independently of the project.
+https://github.com/ThePiachu/Split-Vanity-Miner-Golang
+
+This package was created so the specific libraries could be run independently of the project.
 
  [goreport-svg]: https://goreportcard.com/badge/github.com/grokify/bitcoinmath
  [goreport-link]: https://goreportcard.com/report/github.com/grokify/bitcoinmath
